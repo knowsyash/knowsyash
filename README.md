@@ -5,7 +5,8 @@
 - 👀 I’m interested in web development, innovative projects, and learning new technologies.
 - 🌱 I’m currently learning JavaScript and enhancing my skills in front-end development.
 - 💞️ I’m looking to collaborate on exciting web development projects and open-source contributions.
-- 📫 How to reach me: yash.singhal@example.com
+- 📫 How to reach me:
+codeknowsyash@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and challenges that push my problem-solving skills to the limit.
 
